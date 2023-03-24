@@ -2,7 +2,6 @@ module.exports = {
   apps: [
     {
       name: "Express ts BE",
-      name: "backend",
       script: "npm",
       args: "run start",
       instances: 2,
